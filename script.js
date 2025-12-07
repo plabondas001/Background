@@ -14,3 +14,8 @@ function lightMode() {
     const second = document.getElementById('color')
     second.style.color = 'black'
 }
+
+// purple
+function purpleColor () {
+    document.body.style.backgroundColor = 'purple'
+}
