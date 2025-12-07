@@ -18,4 +18,6 @@ function lightMode() {
 // purple
 function purpleColor () {
     document.body.style.backgroundColor = 'purple'
+    const third = document.getElementById('color')
+    third.style.color = 'red'
 }
