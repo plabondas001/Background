@@ -21,3 +21,10 @@ function purpleColor () {
     const third = document.getElementById('color')
     third.style.color = 'red'
 }
+
+// yellow 
+function yellowColor() {
+    document.body.style.backgroundColor = 'yellow'
+    const fourth = document.getElementById('color')
+    fourth.style.color = 'blue'
+}
